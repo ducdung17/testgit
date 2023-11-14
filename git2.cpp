@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 main(){
-    cout<<">>>>>>>>>>>>"
+    cout<<">>>>>>>>>>>>";
     return 0;
 }
